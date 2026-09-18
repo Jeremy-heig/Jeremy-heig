@@ -74,6 +74,6 @@ Cet exemple montre comment les caractéristiques principales d’une espèce peu
 
 ## Conclusion
 
-Avec sa coloration spectaculaire, sa taille importante et son comportement territorial, le **Gecko Tokay** est un reptile particulièrement intéressant. Il représente un excellent exemple des adaptations développées par les geckos pour vivre et chasser dans des environnements tropicaux.
+Avec sa coloration spectaculaire, sa taille importante et son comportement territorial, le **Gecko Tokay** est un **reptile** particulièrement intéressant. Il représente un excellent exemple des adaptations développées par les geckos pour vivre et chasser dans des environnements tropicaux.
 
 Son observation permet notamment de découvrir comment certaines espèces nocturnes utilisent leur vision, leurs capacités d’escalade et leur comportement territorial pour survivre dans leur milieu naturel.
