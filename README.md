@@ -1,4 +1,4 @@
-# Gecko Tokay : portrait d’un gecko
+# Gecko Tokay : portrait d’un gecko orange et bleu
 
 Le **Gecko Tokay** (*Gekko gecko*) est l’un des geckos les plus reconnaissables au monde. Originaire principalement d’Asie du Sud-Est, il se distingue par sa grande taille, sa coloration bleu-gris ponctuée de taches orangées et son comportement particulièrement affirmé.
 
